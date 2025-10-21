@@ -31,8 +31,7 @@ This project allows users to ask questions, summarize text, and generate creativ
 
 ## ⚙️ Setup & Installation
 
-### Step 1: Clone This Repository
-git clone https://github.com/YOUR_USERNAME/ai-assistant-flask.git
+### Step 1: Clone This Repository :  https://github.com/mayanksinghgitu/VaultofCodes
 cd ai-assistant-flask
 
 text
