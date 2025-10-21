@@ -105,9 +105,9 @@ This project is licensed under the **MIT License** – you’re free to use, mod
 
 ## 🧑‍💻 Author
 
-**[Your Name]**
-📧 Email: your_email@example.com
-🌐 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**MAYANK SINGH**
+📧 Email: mayanksinghsara80@gmail.com
+🌐 GitHub:  https://github.com/mayanksinghgitu/VaultofCodes
 
 ---
 
